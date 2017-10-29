@@ -1,0 +1,11 @@
+Package: biglinux-updates
+Version: 1.0.1-1big2
+Depends: big-kernel, qt5-style-plugins
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br
+Section: admin
+Priority: optional
+Installed-Size:16
+Description: Meta package to improve updates for BigLinux
+
+
