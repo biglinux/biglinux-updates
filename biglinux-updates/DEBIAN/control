@@ -1,6 +1,6 @@
 Package: biglinux-updates
-Version: 1.0.1-1big3
-Depends: big-kernel, qt5-style-plugins, zip, ffmpegthumbs, console-setup, kbd
+Version: 1.0.1-1big5
+Depends: big-kernel, qt5-style-plugins, zip, ffmpegthumbs, console-setup, kbd, vga-switcheroo, irqbalance, deepin-sleep, ligthdm-failsafe
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br
 Section: admin
