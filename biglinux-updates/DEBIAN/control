@@ -1,6 +1,6 @@
 Package: biglinux-updates
-Version: 19.04.1-1big1
-Depends: 
+Version: 19.04.1-1big2
+Depends: adduser-config
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br
 Section: admin
